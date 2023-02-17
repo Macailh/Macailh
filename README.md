@@ -3,9 +3,9 @@
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/salvador-german/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salvador-german/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/germansalvadore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/germansalvadore" height="30" width="40" /></a>
-<a href="https://leetcode.com/macailh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/macailh/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/salvador-german/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salvador-german/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/germansalvadore" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/germansalvadore" height="30" width="40" /></a>
+<a href="https://leetcode.com/macailh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/macailh/" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">
