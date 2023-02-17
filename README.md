@@ -11,9 +11,8 @@
 <h2 align="center">
 💻 Tech Stack:
 </h2>
-<p align="center">
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-</p>
+
 
 <h2 align="center">
  📊 GitHub Stats:
@@ -21,14 +20,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=macailh&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="macailh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macailh&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="macailh" /></p>
-
 <p align="center">
-![](https://github-readme-streak-stats.herokuapp.com/?user=macailh&theme=react&hide_border=true)
-</p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macailh&theme=react&hide_border=true" alt="macailh" /></p>
 
 <h2 align="center">
   ✍️ Random Dev Quote
 </h2>
 <p align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
+
